@@ -1,0 +1,17 @@
+body {
+  width: 400px;
+  margin: auto;
+  background-color:#081d14;
+  color: #efefff;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+  color: #b3b3ff;
+}
+a:visited {
+  color: #880808;
+}
+a {
+  font-family: cursive;
+}
